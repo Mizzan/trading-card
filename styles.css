@@ -1,0 +1,58 @@
+/* Base Style */
+
+body, h3 {
+  font-size: 20px;
+  margin: 5px 0;
+  padding: 0;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  line-height: 1.5;
+}
+
+.container {
+  width: 400px;
+  margin: 0 auto;
+  padding: 10px;
+  border: 2px solid black;
+}
+
+.details {
+  border: 1px solid grey;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+#facts {
+  line-height: normal;
+  font-size: 18px;
+  font-style: italic;
+  font-weight: 400;
+}
+
+
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style-type: none;
+  font-size: 18px;
+}
+
+.fweight {
+  font-weight: 900;
+  font-size: 20px;
+}
+
+.image {
+  width: 400px;
+  height: auto;
+  border-radius: 5px;
+}
+
+#description {
+  line-height: normal;
+  font-size: 18px;
+  font-weight: 400;
+}
